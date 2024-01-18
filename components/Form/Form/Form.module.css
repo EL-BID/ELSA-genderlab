@@ -1,0 +1,17 @@
+.bigText {
+  text-transform: uppercase;
+  color: white;
+  font-size: rem(30px);
+  font-weight: 600;
+  text-align: right;
+
+  @media (max-width: $mantine-breakpoint-md) {
+    text-align: center;
+    font-size: rem(25px);
+  }
+}
+
+.smallText {
+  color: white;
+  font-size: rem(20px);
+}

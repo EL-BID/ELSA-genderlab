@@ -1,0 +1,20 @@
+.prevButton {
+  background-color: rgba(255, 255, 255, 1);
+  border-color: rgba(252, 26, 25, 1);
+  color: rgba(252, 26, 25, 1);
+}
+
+.nextButton {
+  background-color: rgba(252, 26, 25, 1);
+}
+
+.carouselSlide {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mantine-spacing-md);
+  /* align-items: center; */
+  background-color: #b1a3cf;
+  height: 100%;
+  padding: var(--mantine-spacing-md) var(--mantine-spacing-lg);
+  border-radius: var(--mantine-radius-md);
+}
