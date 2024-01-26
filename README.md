@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_genderlab&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_genderlab)
+
 # **About ELSA and this project**
 
 ELSA (Espacios Laborales Sin Acoso) es una herramienta digital e integral de prevención del acoso sexual laboral. El despliegue del proyecto fue apoyado y financiado por el Banco Interamericano de Desarrollo (BID), con quienes desarrollamos una metodología validada por expertos/as y con empresas de diferentes países de la región latinoamericana.
